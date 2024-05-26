@@ -1,4 +1,4 @@
-package com.example.init;
+package com.github.appolon24800.ias.init;
 
 import org.spongepowered.asm.lib.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
